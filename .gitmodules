@@ -4,3 +4,6 @@
 [submodule "custom-font"]
 	path = custom-font
 	url = https://github.com/juniandotnet/xamarin-custom-font.git
+[submodule "background-video"]
+	path = background-video
+	url = https://github.com/juniandotnet/xamarin-background-video.git
