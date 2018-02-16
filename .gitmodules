@@ -1,3 +1,6 @@
 [submodule "audio-player"]
 	path = audio-player
 	url = https://github.com/juniandotnet/xamarin-audio-player.git
+[submodule "custom-font"]
+	path = custom-font
+	url = https://github.com/juniandotnet/xamarin-custom-font.git
